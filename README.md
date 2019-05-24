@@ -1,2 +1,2 @@
 # RaipurBigBash
-First Ionic App
+Git session practices
